@@ -16,13 +16,20 @@ body {
     border: none;
     margin: 0;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 32px;
     color: #fff;
     background-color: #673AB7;
     border-radius: 100px;
     width: 60px;
     height: 60px;
 }
+
+.butouver:hover {
+    background-color: #5725ad;
+    height: 62px;
+    width: 62px;
+    box-shadow: -1px -1px 6px 5px #5bbe21;
+  }
 
 svg {
     width: 24px;
